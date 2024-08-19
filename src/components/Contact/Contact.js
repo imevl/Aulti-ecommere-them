@@ -37,7 +37,9 @@ const Contact = (props) => {
       </div>
 
       <div className={styles.section}>
-        <h4>Phone</h4>
+        <h4>Address</h4>
+        <p>6545 Market Avenue North</p>
+        <p>North Canton,OH, 44720</p>
         <p>+1 424 280 4971</p>
         <p>Monday to Friday - 9am - 5pm AEDT</p>
       </div>
