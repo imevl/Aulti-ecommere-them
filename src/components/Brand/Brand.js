@@ -26,6 +26,7 @@ const Brand = (props) => {
 </tspan>
 	</text>
 </svg>
+		
     </div>
   );
 };
