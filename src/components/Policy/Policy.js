@@ -1,5 +1,9 @@
 import React from 'react';
 import * as styles from './Policy.module.css';
+import Blog from '../../components/Blog';
+import Container from '../../components/Container';
+import Layout from '../../components/Layout/Layout';
+import { toOptimizedImage } from '../../helpers/general';
 
 const Policy = (props) => {
   return (
